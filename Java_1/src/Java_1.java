@@ -7,6 +7,8 @@ public class Java_1 {
 		System.out.println("hi1");
 		System.out.println("hi2");
 		System.out.println("hi3");	
+		System.out.println("hi4");
+		System.out.println("hi5");
 	}
 
 }
