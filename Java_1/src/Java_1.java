@@ -15,6 +15,9 @@ public class Java_1 {
 		System.out.println("hi5");
 	System.out.println("hi5");
 		System.out.println("hi5");
+		System.out.println("hi5");
+		System.out.println("hi5");
+		System.out.println("hi5");
 	}
 
 }
