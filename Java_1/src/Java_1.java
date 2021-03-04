@@ -9,6 +9,10 @@ public class Java_1 {
 		System.out.println("hi3");	
 		System.out.println("hi4");
 		System.out.println("hi5");
+		System.out.println("hi5");
+		System.out.println("hi5");
+		System.out.println("hi5");
+		System.out.println("hi5");
 	}
 
 }
